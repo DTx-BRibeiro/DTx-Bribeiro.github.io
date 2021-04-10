@@ -1,1 +1,4 @@
+---
+permalink: /mission/
+---
 # Sobre nós
