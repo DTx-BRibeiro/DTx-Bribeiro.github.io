@@ -1,6 +1,9 @@
 title:
 logo: /assets/images/uce.png
-description: APUrtica.
+description: APUrtica
 show_downloads: false
 google_analytics:
 remote_theme: chrisrhymes/bulma-clean-theme
+fixed_navbar: top
+theme_color: '#ed6809'
+permalink: pretty

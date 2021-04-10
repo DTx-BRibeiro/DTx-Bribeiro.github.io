@@ -1,0 +1,11 @@
+- label: Example Menu
+  items:
+    - name: Início
+      link: /
+    - name: Sobre Nós
+      link: #
+      items:
+        - name: Missão
+          link: /mission
+    - name: Contacts
+      link: /contacts
