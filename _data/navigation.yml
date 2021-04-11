@@ -1,11 +1,9 @@
-- label: APUrtica
-  items:
-    - name: Início
-      link: /
-    - name: Sobre Nós
-      link: /#
-      dropdown:
-        - name: Missão
-          link: /mission/
-    - name: Contatos
-      link: /contacts/
+- name: Início
+  link: /index/
+- name: Sobre Nós
+  link: /#
+  dropdown:
+    - name: Missão
+      link: /mission/
+- name: Contatos
+  link: /contacts/
