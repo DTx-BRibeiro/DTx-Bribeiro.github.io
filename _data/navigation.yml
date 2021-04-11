@@ -14,56 +14,56 @@
     - name: Conselho Médico
       link:  /apurtica/medical/
     # - name: Parcerias
-    #   link:
+    #   link: /apurtica/partners/
     # - name: Documentos Oficiais
-    #   link:
+    #   link: /apurtica/documents/
 - name: Urticária
   link: #
   dropdown: 
     - name: A doença crónica/aguda 
-      link: /contacts/
+      link: /urticaria/disease/
     - name: Tipos
-      link: /contacts/
+      link: /urticaria/types/
     - name: Causas
-      link: /contacts/
+      link: /urticaria/causes/
     - name: Sintomas
-      link: /contacts/
+      link: /urticaria/symptoms/
     - name: Diagnóstico
-      link: /contacts/
+      link: /urticaria/diagnosis/
     - name: Terapêutica
-      link: /contacts/
+      link: /urticaria/therapeutics/
     - name: Qualidade de vida 
-      link: /contacts/
+      link: /urticaria/life/
     - name: Impacto na sociedade
-      link: /contacts/
+      link: /urticaria/society/
     # - name: Estudos
     #   link:
 - name: Apoio Médico
   link: #
   dropdown: 
     - name: Formulário de apoio médico
-      link: /contacts/
+      link: /medical/support/
     - name: Centros UCare
-      link: /contacts/
+      link: /medical/ucare/
 # - name: Testemunhos
 #   link: #
 - name: Como apoiar
   link: #
   dropdown:
     - name: Associados
-      link: /contacts/
+      link: /support/associates/
     - name: Donativos
-      link: /contacts/
+      link: /support/donations/
 - name: Notícias
   link: #
   dropdown: 
     - name: Iniciativas
-      link: /contacts/
+      link: /news/iniciatives/
     - name: Comunicação Social
-      link: /contacts/
+      link: /news/social/
 - name: FAQs
-  link: /contacts/
+  link: /faqs/
 # - name: Legislação
-#    link: 
+#    link: /legislation/
 - name: Contatos
   link: /contacts/
