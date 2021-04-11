@@ -1,10 +1,9 @@
 title:
-logo: /assets/images/uce.png
-description: APUrtica
+hero_image: /assets/images/uce.png
+description:
 show_downloads: false
 google_analytics:
 remote_theme: chrisrhymes/bulma-clean-theme
 fixed_navbar: top
 menubar: navigation
-theme_color: '#ed6809'
 permalink: pretty
