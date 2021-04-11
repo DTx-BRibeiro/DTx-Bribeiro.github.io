@@ -5,12 +5,13 @@ google_analytics:
 remote_theme: chrisrhymes/bulma-clean-theme
 permalink: pretty
 fixed_navbar: top
+favicon: /assets/images/uce_square.png
 defaults:
   -
     scope:
       path: "" # an empty string here means all files in the project
     values:
       layout: page
-      hero_image: /assets/images/uce.png
+      hero_image: /assets/images/uce_banner.png
 
       
