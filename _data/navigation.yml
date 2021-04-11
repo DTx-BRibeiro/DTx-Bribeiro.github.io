@@ -1,5 +1,5 @@
 - name: APUrtica
-    link: #
+  link: #
   dropdown: 
     - name: Quem Somos
       link: /apurtica/who/
@@ -18,49 +18,51 @@
     # - name: Documentos Oficiais
     #   link:
 - name: Urticária
-    link: #
+  link: #
   dropdown: 
     - name: A doença crónica/aguda 
-      link:
+      link: /contacts/
     - name: Tipos
-      link:
+      link: /contacts/
     - name: Causas
-      link:
+      link: /contacts/
     - name: Sintomas
-      link:
+      link: /contacts/
     - name: Diagnóstico
-      link:
+      link: /contacts/
     - name: Terapêutica
-      link:
+      link: /contacts/
     - name: Qualidade de vida 
-      link:
+      link: /contacts/
     - name: Impacto na sociedade
-      link:
+      link: /contacts/
     # - name: Estudos
     #   link:
 - name: Apoio Médico
-    link: #
+  link: #
   dropdown: 
     - name: Formulário de apoio médico
-      link:
+      link: /contacts/
     - name: Centros UCare
-      link: 
+      link: /contacts/
 # - name: Testemunhos
 #   link: #
 - name: Como apoiar
-  dropdown: 
+  link: #
+  dropdown: /contacts/
     - name: Associados
-      link:
+      link: /contacts/
     - name: Donativos
-      link:
+      link: /contacts/
 - name: Notícias
+  link: #
   dropdown: 
     - name: Iniciativas
-      link:
+      link: /contacts/
     - name: Comunicação Social
-      link:
+      link: /contacts/
 - name: FAQs
-   link: 
+   link: #
 # - name: Legislação
 #    link: 
 - name: Contatos
