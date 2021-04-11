@@ -4,7 +4,6 @@ show_downloads: false
 google_analytics:
 remote_theme: chrisrhymes/bulma-clean-theme
 permalink: pretty
-fixed_navbar: top
 favicon: /assets/images/uce_square.png
 defaults:
   -
