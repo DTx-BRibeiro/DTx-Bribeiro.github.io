@@ -49,7 +49,7 @@
 #   link: #
 - name: Como apoiar
   link: #
-  dropdown: /contacts/
+  dropdown:
     - name: Associados
       link: /contacts/
     - name: Donativos
