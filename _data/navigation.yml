@@ -1,7 +1,67 @@
-- name: Sobre Nós
-  link: /#
-  dropdown:
+- name: APUrtica
+    link: #
+  dropdown: 
+    - name: Quem Somos
+      link: /apurtica/who/
     - name: Missão
-      link: /mission/
+      link: /apurtica/mission/
+    - name: Objetivos
+      link: /apurtica/objectives/
+    - name: Estatutos
+      link: /apurtica/statutes/
+    - name: Comissão Instaladora
+      link: /apurtica/comissao/
+    - name: Conselho Médico
+      link:  /apurtica/medical/
+    # - name: Parcerias
+    #   link:
+    # - name: Documentos Oficiais
+    #   link:
+- name: Urticária
+    link: #
+  dropdown: 
+    - name: A doença crónica/aguda 
+      link:
+    - name: Tipos
+      link:
+    - name: Causas
+      link:
+    - name: Sintomas
+      link:
+    - name: Diagnóstico
+      link:
+    - name: Terapêutica
+      link:
+    - name: Qualidade de vida 
+      link:
+    - name: Impacto na sociedade
+      link:
+    # - name: Estudos
+    #   link:
+- name: Apoio Médico
+    link: #
+  dropdown: 
+    - name: Formulário de apoio médico
+      link:
+    - name: Centros UCare
+      link: 
+# - name: Testemunhos
+#   link: #
+- name: Como apoiar
+  dropdown: 
+    - name: Associados
+      link:
+    - name: Donativos
+      link:
+- name: Notícias
+  dropdown: 
+    - name: Iniciativas
+      link:
+    - name: Comunicação Social
+      link:
+- name: FAQs
+   link: 
+# - name: Legislação
+#    link: 
 - name: Contatos
   link: /contacts/
