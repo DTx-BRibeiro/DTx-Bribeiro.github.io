@@ -1,4 +1,4 @@
 ---
 permalink: /news/social/
 ---
-# A doença
+# Na comunicação social
