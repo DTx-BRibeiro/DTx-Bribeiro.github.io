@@ -12,6 +12,19 @@ div.highlight {
     }
 }
 
+.navbar-item{
+    color: "white";
+    font-size: 1.15em
+}
+
+.navbar-link{
+    border-color: "white"
+}
+
+.navbar.is-primary{
+    background-color: #ED6809;
+}
+
 .contents {
     box-shadow: $box-shadow;
     padding: 1.5rem;
