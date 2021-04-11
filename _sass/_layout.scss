@@ -12,10 +12,14 @@ div.highlight {
     }
 }
 
-.social { position: absolute; margin-left: 90%; }
+.social { 
+    position: absolute;
+    margin-left: 90%; 
+    margin-bottom: 5%;
+}
+
 .social img { 
-    margin-top: 15%; 
-    max-width: 15px;
+    max-width: 50px;
     height: auto;
 }
 
