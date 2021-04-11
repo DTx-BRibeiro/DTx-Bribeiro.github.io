@@ -1,5 +1,3 @@
-- name: Início
-  link: /index/
 - name: Sobre Nós
   link: /#
   dropdown:
