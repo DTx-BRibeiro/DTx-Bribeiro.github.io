@@ -1,9 +1,15 @@
 title:
-hero_image: /assets/images/uce.png
 description:
 show_downloads: false
 google_analytics:
 remote_theme: chrisrhymes/bulma-clean-theme
-fixed_navbar: top
-menubar: navigation
 permalink: pretty
+fixed_navbar: top
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+    layout: page
+
+      
