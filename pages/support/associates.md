@@ -1,7 +1,7 @@
 ---
 permalink: /support/associates/
 ---
-## Adesão de sócion
+## Adesão de sócio
 
 Para aderir à associação como novo sócio por favor preencha o formulário em baixo.
 
@@ -78,5 +78,5 @@ Para aderir à associação como novo sócio por favor preencha o formulário em
 <input type="checkbox" id="authorization" name="auth" value="authorization" required>
 <label for="authorization"> Autorizo a recolha, registo, tratamento e conservação dos meus dados pessoais pela APUrtica, nos termos da legislação aplicável à proteção e privacidade de dados pessoais</label><br>
 <br>
-  <button type="submit">Adere!</button>
+  <button type="submit">Aderir</button>
 </form>
