@@ -31,6 +31,7 @@ Para aderir à associação como novo sócio por favor preencha o formulário em
     <input type="text" name="city" size="30" placeholder="Localidade..." required>
 </label>
 <br>
+<br>
 <label>
     E-mail:
     <input type="email" name="_replyto" size="30" placeholder="example@server.com" required>
