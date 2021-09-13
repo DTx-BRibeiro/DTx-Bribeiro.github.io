@@ -24,7 +24,7 @@ Para aderir à associação como novo sócio por favor preencha o formulário em
 <br>
  <label>
     Código Postal:
-    <input type="text" name="postal" size="10" placeholder="NNNN-NNN" required>
+    <input type="text" name="postal" size="8" placeholder="NNNN-NNN" required>
 </label>
  <label>
     Localidade:
@@ -42,12 +42,12 @@ Para aderir à associação como novo sócio por favor preencha o formulário em
 <br>
 <br>
  <label>
-    Núm. CC/BU:
-    <input type="number" name="cc_id" size="12" placeholder="NNNNNNNNN" required>
+    Núm. CC/BI:
+    <input type="number" name="cc_id" size="10" placeholder="NNNNNNNNN" required>
 </label>
  <label>
     NIF:
-    <input type="number" name="cc_id" size="12" placeholder="NNNNNNNNN" required>
+    <input type="number" name="cc_id" size="10" placeholder="NNNNNNNNN" required>
 </label>
  <label>
     Data de Nascimento:
