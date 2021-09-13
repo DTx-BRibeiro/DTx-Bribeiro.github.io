@@ -63,4 +63,9 @@ div.highlight {
         height: 4rem;
         margin-bottom: 0.75rem;
     }
-}
+}´
+
+.required:after {
+    content:" *";
+    color: red;
+  }
