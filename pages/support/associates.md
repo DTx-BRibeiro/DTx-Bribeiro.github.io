@@ -27,9 +27,10 @@ Para aderir à associação como novo sócio por favor preencha o formulário em
     <input type="text" name="morada" size="75" placeholder="Rua..." required>
 </label>
 <br>
+<br>
  <label>
     Código Postal:
-    <input type="text" name="postal" size="20" placeholder="NNNN-NNN" required>
+    <input type="text" name="postal" size="10" placeholder="NNNN-NNN" required>
 </label>
  <label>
     Localidade:
@@ -43,7 +44,8 @@ Para aderir à associação como novo sócio por favor preencha o formulário em
     <input type="number" name="cc_id" size="75" placeholder="NNNNNNNNN" required>
 </label>
 <br>
-   <label>Waiver:</label>
+<br>
+   <label>Tem urticária crônica?</label>
 <br>
       <input type="radio" id="yes_spt" name="disease" value="yes_sp" required>
       <label for="yes_spt">Sim, espontânea</label><br>
@@ -71,6 +73,7 @@ Para aderir à associação como novo sócio por favor preencha o formulário em
 <br>
     <input type="text" name="know_how" size="75" placeholder="E.g. facebook, familiar" required>
 </label>
+<br>
 <br>
 <input type="checkbox" id="authorization" name="auth" value="authorization" required>
 <label for="authorization"> Autorizo a recolha, registo, tratamento e conservação dos meus dados pessoais pela APUrtica, nos termos da legislação aplicável à proteção e privacidade de dados pessoais</label><br>
