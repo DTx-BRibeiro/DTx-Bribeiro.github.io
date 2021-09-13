@@ -10,12 +10,6 @@ Para aderir à associação como novo sócio por favor preencha o formulário em
   method="POST"
 >
 <label>
-    E-mail:
-<br>
-    <input type="email" name="_replyto" size="30" placeholder="example@server.com" required>
-  </label>
-<br>
-<label>
     Nome
 <br>
     <input type="text" name="nome" size="75" placeholder="Nome..." required>
@@ -37,11 +31,34 @@ Para aderir à associação como novo sócio por favor preencha o formulário em
     <input type="text" name="city" size="30" placeholder="Localidade..." required>
 </label>
 <br>
+<label>
+    E-mail:
+    <input type="email" name="_replyto" size="30" placeholder="example@server.com" required>
+  </label>
+<label>
+    Telefone:
+    <input type="number" name="phone" size="12" placeholder="NNNNNNNNN" required>
+  </label>
+<br>
 <br>
  <label>
     Núm. CC/BU:
+    <input type="number" name="cc_id" size="12" placeholder="NNNNNNNNN" required>
+</label>
+ <label>
+    NIF:
+    <input type="number" name="cc_id" size="12" placeholder="NNNNNNNNN" required>
+</label>
+ <label>
+    Data de Nascimento:
+    <input type="date" name="cc_id" size="10" required>
+</label>
 <br>
-    <input type="number" name="cc_id" size="75" placeholder="NNNNNNNNN" required>
+<br>
+ <label>
+    Área(s) de interesse/contributo para a associação:
+<br>
+    <input type="text" name="contrib" size="75" placeholder="">
 </label>
 <br>
 <br>
@@ -65,13 +82,13 @@ Para aderir à associação como novo sócio por favor preencha o formulário em
  <label>
     É acompanhado por especialidade médica:
 <br>
-    <input type="text" name="med_speciality" size="75" placeholder="E.g. imunoalergologia" required>
+    <input type="text" name="med_speciality" size="75" placeholder="Ex. imunoalergologia" required>
 </label>
 <br>
  <label>
     Como tomou conhecimento da APUrtica:
 <br>
-    <input type="text" name="know_how" size="75" placeholder="E.g. facebook, familiar" required>
+    <input type="text" name="know_how" size="75" placeholder="Ex. facebook, familiar" required>
 </label>
 <br>
 <br>
